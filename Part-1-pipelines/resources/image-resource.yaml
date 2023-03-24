@@ -6,5 +6,5 @@ spec:
   type: image
   params:
     - name: url
-      value: yossicohn/tkn-pip-resource #configure: replace with where the image should go: perhaps your local registry or Dockerhub with a secret and configured service account
+      value: kenna81/tkn-pip-resource #configure: replace with where the image should go: perhaps your local registry or Dockerhub with a secret and configured service account
 
